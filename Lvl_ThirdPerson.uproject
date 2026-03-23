@@ -50,6 +50,10 @@
 		{
 			"Name": "PCGWaterInterop",
 			"Enabled": true
+		},
+		{
+			"Name": "TextureGraph",
+			"Enabled": true
 		}
 	]
 }
